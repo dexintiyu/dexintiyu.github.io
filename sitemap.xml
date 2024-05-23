@@ -60,8 +60,31 @@
   <priority>0.64</priority>
 </url>
 
+<url>
+  <loc>https://dexintiyu.github.io/pages/news008.html</loc>
+  <priority>0.64</priority>
+</url>
 
-
+<url>
+  <loc>https://dexintiyu.github.io/pages/news009.html</loc>
+  <priority>0.64</priority>
+</url>
       
+
+<url>
+  <loc>https://dexintiyu.github.io/pages/news0010.html</loc>
+  <priority>0.64</priority>
+</url>
+
+<url>
+  <loc>https://dexintiyu.github.io/pages/news0011.html</loc>
+  <priority>0.64</priority>
+</url>
+
+<url>
+  <loc>https://dexintiyu.github.io/pages/news0012.html</loc>
+  <priority>0.64</priority>
+</url>
+
 
 </urlset>
